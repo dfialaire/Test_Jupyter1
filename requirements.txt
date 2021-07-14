@@ -1,2 +1,4 @@
 pandas==1.0.4
 voila==0.2.6
+branca==0.4.2
+folium==0.12.1
