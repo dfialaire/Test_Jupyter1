@@ -4,4 +4,4 @@ ipywidgets==7.6.3
 ipyleaflet==0.14.0
 reportlab==3.5.68
 pathlib==1.0.1
-flask==1.0.2
+selenium==3.141.0
