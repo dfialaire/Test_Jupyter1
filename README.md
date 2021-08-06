@@ -1,8 +1,6 @@
 # Test_Jupyter1
 Test_Jupyter1
 
-Mybinder :
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dfialaire/Test_Jupyter1/HEAD)
 
 Voila:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dfialaire/Test_Jupyter1/HEAD?urlpath=%2Fvoila%2Frender%2F4_2_1_CSV_Jupyter-Copy2.ipynb)
@@ -13,3 +11,5 @@ Voila:
 2ème voila : 15
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dfialaire/Test_Jupyter1/HEAD?urlpath=%2Fvoila%2Frender%2F4_2_1_CSV_Jupyter_Copy15.ipynb)
 
+3ème voila : 16_layer
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dfialaire/Test_Jupyter1/HEAD?urlpath=%2Fvoila%2Frender%2F4_2_1_CSV_Jupyter_Copy16_layer.ipynb)
