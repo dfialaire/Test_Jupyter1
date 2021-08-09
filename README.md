@@ -13,3 +13,5 @@ Voila:
 
 3ème voila : 16_layer
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dfialaire/Test_Jupyter1/HEAD?urlpath=%2Fvoila%2Frender%2F4_2_1_CSV_Jupyter_Copy16_layer.ipynb)
+
+4ème voila : Lieux_de_stages
