@@ -18,5 +18,7 @@ Voila:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dfialaire/Test_Jupyter1/HEAD?urlpath=%2Fvoila%2Frender%2FLieux_de_stages.ipynb)
 
 5ème voila : Choix des icones et couleurs
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dfialaire/Test_Jupyter1/HEAD?urlpath=%2Fvoila%2Frender%2FTest_icon1.ipynb)
 
