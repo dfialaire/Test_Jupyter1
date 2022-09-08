@@ -9,6 +9,8 @@
 2022 Aout : Lien vers l'application avec contrôle des annnées.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dfialaire/Test_Jupyter1/HEAD?urlpath=%2Fvoila%2Frender%2FLieux_de_stages_Check_Annees5.ipynb)
 
+[![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)]
+
 [![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge&style=flat)](https://heroku-badge.herokuapp.com/projects.html)
 
 [![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge&style=flat)](https://heroku-badge.herokuapp.com/lieux-de-stage-bioac-reims)
