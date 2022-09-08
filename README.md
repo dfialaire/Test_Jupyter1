@@ -11,7 +11,7 @@
 
 [![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge&style=flat)](https://heroku-badge.herokuapp.com/projects.html)
 
-[![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge&style=flat)](https://heroku-badge.herokuapp.com/projects.html)
+[![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge&style=flat)](https://heroku-badge.herokuapp.com/lieux-de-stage-bioac-reims)
 
 [![Heroku](https://heroku-status-badges.herokuapp.com/lieux-de-stage-bioac-reims)
 
